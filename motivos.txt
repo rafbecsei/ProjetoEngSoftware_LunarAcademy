@@ -1,0 +1,10 @@
+supabase/PostgreSQL
+por causa de dois semestres de experiências prévias(3° e 5° semestre), consequentemente o grupo sente mais facilidade em prosseguir o projeto com o PostgreSQL, utilizando a plataforma do Supabase, pois foi a plataforma com experiência mais recente.
+
+MongoDB
+Escolhemos o Mongo pois ele é um banco não estruturado e os dados que guardaremos podem alterar sem deixar de ser da mesma tabela. Utilizaremos para guardar as informações dos professores, por exemplo, não é necessário ter uma formação ou certificados, mas serão salvas se tiver. Outro exemplos, os cursos podem ou não ter pré-requisitos para ingressão.
+
+Cassandra
+Escolhemos o Cassandra, pois ele é bom para guardar histórico, retorna mais rápido e mantém consistência porque quando algo é atualizado, o resto não é afetado. Assim, escolhemos o Cassandra para guardar  histórico de cursos feitos pelos alunos da plataforma, tendo como atributos: curso, autor, avaliação, data_inicio, data término.
+
+Escolhemos utilizar a linguagem go, pois queríamos ter contato com novas linguagens. E go também é uma linguagem avantajada no quesito de projetos envolvendo os bancos escolhidos pelo grupo. 
