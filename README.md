@@ -1,3 +1,3 @@
 # LunarAcademy
 
-Leia a WIki
+Informações sobre o projeto na Wiki.
